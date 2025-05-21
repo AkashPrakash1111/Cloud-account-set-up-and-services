@@ -1,9 +1,4 @@
 # EX NO: Cloud-account-set-up-and-services
-~~~
-Name :M.PAVITHRA
-
-Reg no: 212222100032
-~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
 
